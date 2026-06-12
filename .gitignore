@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build
+build/
+dist/
+*.spec
+*.exe
+
+# Local config
+nexus_config.json
+*.log
